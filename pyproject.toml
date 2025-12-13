@@ -9,6 +9,9 @@ dependencies = [
     "numpy>=2.3.5",
     "pandas>=2.3.3",
     "pulp>=3.3.0",
+    "qiskit>=2.2.3",
+    "qiskit-algorithms>=0.4.0",
+    "qiskit-optimization>=0.7.0",
     "qrisp>=0.5.4",
     "sympy>=1.14.0",
 ]
